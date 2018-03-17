@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "X:\\Downloads\\react-native-boilerplate-redux-flow-RN\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "X:\\Downloads\\react-native-boilerplate-redux-flow-RN\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "X:\\market\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "X:\\market\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
